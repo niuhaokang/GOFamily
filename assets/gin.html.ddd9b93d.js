@@ -1,0 +1,1 @@
+import{o as t,c as n,F as o,a as e}from"./app.1caf3c2c.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const r={},s=e("h1",null,"gin",-1),a=e("blockquote",null,[e("p",null,"https://github.com/gin-gonic/gin")],-1);function l(_,i){return t(),n(o,null,[s,a],64)}var f=c(r,[["render",l]]);export{f as default};

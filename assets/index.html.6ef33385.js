@@ -1,0 +1,1 @@
+const e={key:"v-d026e388",path:"/go/%E5%9F%BA%E7%A1%80/map/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644420503e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"go/\u57FA\u7840/map/README.md"};export{e as data};
